@@ -5,16 +5,19 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 28, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Alita Clark)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(A summarization of five concepts we learned in Lesson 3.)
+
+VIEW PROJECT
+(https://ac15g.github.io/lesson3_VersionControl/)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Local repositories are often pushed to remote repositories to serve as backups.)
+2. (Version Control Systems help maintain data's integrity and allow multiple versions of the same file to exist at once.)
+3. (GitHub is a useful VCS that allows people to share code.)
 
